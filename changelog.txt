@@ -1,0 +1,129 @@
+Tronic Revamped Changelog
+
+v1	- Added full biome support
+	- Changed wool, snow, and iron blocks so that you could actually tell them apart.
+	- Made metal blocks look more metallic.
+	- Changed clay block color from gray to peach to make clay easier to spot.
+	- New icons, thanks to Frenden.
+	- Round sun and Moon, thanks to Rhodox.
+
+v2	- Tronic Revamped now ships with a No Armor version. Armor is skinned to be
+		transparent so that you can see players's custom skins.
+	- Removed pumpkin face on pumpkins not being used as lanterns. 
+
+v3	- Fully compatible with Beta 1.2
+	- Dyes are now textured according to hierarchy. 'Primary' dyes look like the resource
+		they came from (rose petals, cactus leaf, crushed bones). 'Secondary', or mixed,
+		dyes are textured to come in small metal bowls.
+	- Added new wool colors.
+	- Added sandstone.
+	- Changed brick texture to actually look like bricks. It can tile with sandstone, so
+		brick+sandstone buildings are possible.
+	- Added squid skin (basically just a resized default skin because I got lazy).
+	- Improved block breaking progress bar.
+	- Snowballs are now less blue.
+
+v4	- Changed water color to teal
+	- Removed tiling effect from lava. This was the most elegant way to enforce the
+		danger of lava without breaking from the minimalist style of Tronic. Seeing a
+		solid patch of orange (without the grid lines present on every other block) should
+		immediately make you wary.
+	- IMPROVED UNDERWATER VISION AND NIGHT VISION! Finally found the textures that govern
+		these and improved them. You no longer have annoying foggy pixels in front of you
+		when diving, and walking around in darkness will no longer make the edges of
+		your screen dark and give you tunnel vision.
+	- New paintings made from popular NES games.
+	- Made pine needles thinner.
+	- Changed chests and workbenches to reflect their made-from-planks nature.
+	- Changed furnace and dispenser textures.
+	- Furnaces, chests, dispensers and workbenches now tile when placed next
+		to each other. The effect is like a kitchen bench, with an overhang that is
+		consistent between them. This was mainly done to allow the creation of
+		kitchens in the game.
+	- Made diamond ore brighter, both to help spot it and to help differentiate it from
+		lapis lazuli ore.
+	- Fixed unnoticeable transparency bug with cake.
+	
+v5	- Added new item textures and icons for Beta 1.3.
+	- Darkened pine bark texture color.
+	- Changed back to the original Tronic version of brick.
+	- Changed sandstone texture to suit revision of brick.
+	- Redid Squid texture.
+
+v6	- Added Mystery Block and Cookie textures (used the stock textures for both, because the
+		cookie one was nice already, and the Mystery Block isn't even in the game).
+	- Added new Wolf textures.
+	- Removed the redstone trail textures (they have been removed from Beta 1.4.)
+
+v7	- Added new saplings.
+	- Changed Mystery Block to new biome-compliant grassy sides.
+	- Added powered rails and detector block. Hopefully the detector block is more obvious
+		at a distance than the stock design was.
+	- Fixed transparency on some blue block, which I can only assume was water (never seen it).
+	- Added new power.png to Transparent Armor variant of Tronic Revamped.
+	- Darkened wolf skin a bit.
+	
+v8	- Added trapdoor.
+	- Added new particle effects.
+	- Added item icon for map.
+	- Did NOT redo map texture or map markers. They were fine as-is, and maps should be as
+		standardised as possible, I think.
+	- Removed MrMMods Pack steps from installation instructions.
+
+v8b 	- Added tall grasses.
+
+v9	- Added shears.
+	- Added new texture for fishing rod without fishing line.
+	- Added pistons!
+	- I noticed the new Silverfish mod texture, but since it's presently unused, I have not
+		included it.
+	- Moved cake and bed textures downwards to match new texture alignment.
+
+v10	- Thanks to Shamus (Minecraft name Shamus03) for the following texture additions:
+		- Added custom fire textures.
+		- Added custom lava textures.
+		- Added custom portal texture.
+		- Added Connected Textures Mod support.
+		- Added subtle "Use the patcher, noob" message to terrain.png for improperly
+			patched packs.
+	- Removed power.png from Invisi-Armor version of Tronic.
+
+v11	- Added new textures and icons for all new 1.8 Adventure Update blocks and items, except:
+		- Enderman
+		- Cave spider
+		- Silverfish
+		- Rotten meat
+		- Seeds
+
+v12	Deleted sections:
+		- Removed round sun and moon. The new moon phases are pretty cool.
+	Changes to mobs:
+		- Made squid mouth less terrifying and Cthulhu-like.
+		- Added Mooshroom.
+		- Added Blaze.
+		- Added Cave Spider.
+		- Added Magma Cube.
+		- Added Enderman.
+		- Added Snow Golem.
+		- Added all villagers.
+	- Updated gui.png (had a white background with a line through it, so I added that in case
+		it was important).
+	- Added stock item icons. Junkboy's been doing some great ones.
+	Changes to blocks:
+		- Added Nether Brick.
+		- Added Netherwart (stock texture).
+		- Added footsteps (stock texture).
+		- Added enchanting table.
+		- Added Dragon Egg.
+		- Added Mycelium block.
+		- Added Lilypad.
+		- Added Ender Stone.
+		- Added End Portal Frame.
+		- Touched up the Ender Eye to make it a little clearer.
+	- I didn't touch the brewing stand or cauldron because I couldn't understand how the
+		textures wrapped together.
+
+v13	Deleted sections:
+		- Removed gui/gui.png. I barely changed anything inside it anyway.
+	- Added stock item icons for spawn egg and some white powder type stuff. All Junkboy's!
+	
